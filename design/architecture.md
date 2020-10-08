@@ -7,7 +7,7 @@ tag: RocketMQ 架构
 # 架构设计
 ---
 ## 1 技术架构
-![](/image/rocketmq_architecture_1.png)
+![]({{ site.baseurl }}/image/rocketmq_architecture_1.png)
 
 RocketMQ架构上主要分为四部分，如上图所示:
 
@@ -24,12 +24,12 @@ RocketMQ架构上主要分为四部分，如上图所示:
 4. HA Service：高可用服务，提供Master Broker 和 Slave Broker之间的数据同步功能。
 5. Index Service：根据特定的Message key对投递到Broker的消息进行索引服务，以提供消息的快速查询。
 
-![](/image/rocketmq_architecture_2.png)
+![]({{ site.baseurl }}/image/rocketmq_architecture_2.png)
 
 ## 2 部署架构
 
 
-![](/image/rocketmq_architecture_3.png)
+![]({{ site.baseurl }}/image/rocketmq_architecture_3.png)
 
 
 ### RocketMQ 网络部署特点
