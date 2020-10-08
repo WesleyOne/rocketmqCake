@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 title: 特性
 tag: RocketMQ 特性
 ---
