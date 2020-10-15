@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 1
 title: 架构
 tag: RocketMQ 架构
 ---

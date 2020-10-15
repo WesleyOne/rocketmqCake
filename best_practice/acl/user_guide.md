@@ -1,5 +1,5 @@
 ---
-sort: 8
+sort: 1
 title: 权限控制
 tag: RocketMQ 权限控制
 ---

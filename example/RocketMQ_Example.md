@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 1
 title: 样例
 tag: RocketMQ 样例
 ---

@@ -1,5 +1,5 @@
 ---
-sort: 6
+sort: 1
 title: 最佳实践
 tag: RocketMQ 最佳实践
 ---

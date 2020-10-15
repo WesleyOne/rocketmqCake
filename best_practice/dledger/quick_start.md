@@ -1,5 +1,5 @@
 ---
-sort: 9
+sort: 1
 title: Dledger快速搭建
 tag: RocketMQ Dledger 快速搭建
 ---

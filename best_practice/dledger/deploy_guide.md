@@ -1,5 +1,5 @@
 ---
-sort: 10
+sort: 2
 title: Dledger集群搭建
 tag: RocketMQ Dledger 集群搭建
 ---

@@ -1,5 +1,5 @@
 ---
-sort: 3
-title: Dledger部署
+sort: 4
+title: 4.Dledger部署
 tag: RocketMQ Dledger
 ---

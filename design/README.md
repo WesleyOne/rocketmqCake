@@ -1,6 +1,6 @@
 ---
 sort: 2
-title: 架构设计
+title: 2.架构设计
 tag: RocketMQ 架构 设计
 ---
 
