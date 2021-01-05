@@ -10,6 +10,8 @@
 - [RocketMQ官方Github](https://github.com/apache/rocketmq)
 - [rocketmq-externals扩展项目](https://github.com/apache/rocketmq-externals)
 
+	_[最近比较revisions:bd67f7a8](https://github.com/apache/rocketmq/tree/master/docs/cn)_
+
 
 ## Apache RocketMQ开发者指南
 --------
