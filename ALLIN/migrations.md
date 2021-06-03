@@ -32,36 +32,36 @@ tag: RocketMQ 平滑 迁移
 
 **迁移前状态**
 
-![迁移前状态]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移前的架构.jpg)
+![迁移前状态]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移前的架构.jpg)
 
 
 **搭建新RocketMQ服务**
 
-![搭建新RocketMQ服务]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移1.jpg)
+![搭建新RocketMQ服务]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移1.jpg)
 
 
 
 **关闭老Broker写入权限**
 
-![关闭老Broker写入权限]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移2.jpg)
+![关闭老Broker写入权限]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移2.jpg)
 
 
 
 **更换使用新的NameSrv地址**
 
-![更换使用新的NameSrv地址]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移3.jpg)
+![更换使用新的NameSrv地址]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移3.jpg)
 
 
 
 **新Broker移除老NameSrv地址**
 
-![新Broker移除老NameSrv地址]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移4.jpg)
+![新Broker移除老NameSrv地址]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移4.jpg)
 
 
 
 **迁移后状态**
 
-![下线老RocketMQ服务]({{ site.baseurl }}/rocketmq迁移草案20210526-迁移完成.jpg)
+![下线老RocketMQ服务]({{ site.baseurl }}/image/rocketmq迁移草案20210526-迁移完成.jpg)
 
 
 
